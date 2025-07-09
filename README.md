@@ -1,4 +1,4 @@
-# 🐚 goshell - Coding Challenges Shell
+# 🐚 goshell
 
 `goshell` is a minimal shell implementation written in Go that mimics core functionality of Unix shells like `bash` or `zsh`, with a focus on education, architecture, and system-level control.
 
