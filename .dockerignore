@@ -1,0 +1,6 @@
+goshell
+*.exe
+*.out
+*.log
+*.test
+vendor/
